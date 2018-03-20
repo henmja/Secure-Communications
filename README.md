@@ -21,5 +21,6 @@ How to run - input:
 8. Bob's second prime as input for BBS.
 9. Alice's plaintext to be encrypted (8 binary numbers).
 
-Test Results 
+Test Results
+
 Using the parameters: 23 (public parameter prime, p), 9 (public parameter generator, g), 4 (Alice’s private key), 3 (Bob’s private key), 19 (Alice’s first prime for generating shared key), 11 (Alice’s second prime), 19 (Bob’s first prime for generating shared key), 11 (Bob’s second prime), 10101010 (binary String Alice encrypts) results in the decrypted binary String, 10101010. 
