@@ -1,4 +1,4 @@
-package assignment2;
+package secCom;
 
 import java.io.BufferedReader;
 import java.io.IOException;
