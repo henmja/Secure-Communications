@@ -1,6 +1,6 @@
 # Secure communications
 
-The goal of this project is to simulate secure communications between Alice and Bob by using Diffie-Hellman's key exchange scheme to generate shared keys (step 1-4), the Blum-Blum-Shub algorithm as CSPRNG to further enhance the security of the shared key (step 5) and SDES with the shared key to encrypt Alice's message (step 6). In the end Bob decrypts Alice's message using the shared key.   
+The purpose of this project is to simulate secure communications between Alice and Bob by using Diffie-Hellman's key exchange scheme to generate shared keys (step 1-4), the Blum-Blum-Shub algorithm as CSPRNG to further enhance the security of the shared key (step 5) and SDES with the shared key to encrypt Alice's message (step 6). In the end Bob decrypts Alice's message using the shared key.   
 
 
 ## Design and implementation 
